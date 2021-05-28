@@ -2,7 +2,7 @@
 
 Microservices in Spring with a Eurekaserver and two client microservices.
 
-Steps to run the Eureka Server:
+## Steps to run the Eureka Server:
 
 1. Navigate into the EurekaServer folder and start the application with ```mvn spring-boot:run```
 2. Open up the browser and check if the EurekaServer has started at ```localhost:8761```
